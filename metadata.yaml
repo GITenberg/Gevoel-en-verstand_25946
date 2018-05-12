@@ -1,0 +1,44 @@
+_repo: Gevoel-en-verstand_25946
+_version: 0.1.0
+alternative_title: Sense and sensibility. Dutch
+contributor:
+  translator:
+    agent_name: Loman-van Uildriks, Gonne
+    birthdate: 1863
+    deathdate: 1921
+    gutenberg_agent_id: '31684'
+    url: http://www.gutenberg.org/2009/agents/31684
+    wikipedia: http://nl.wikipedia.org/wiki/Gonne_van_Uildriks
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: ''
+gutenberg_issued: '2008-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25946'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+title: Gevoel en verstand
+url: http://www.gutenberg.org/ebooks/25946
