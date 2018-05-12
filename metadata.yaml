@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/68
     wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25946#Gevoel-en-verstand
 gutenberg_issued: '2008-07-01'
 gutenberg_type: Text
 identifiers:
